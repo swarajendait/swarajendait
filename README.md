@@ -1,4 +1,4 @@
-![Coding Fan](https://github.com/swarajendait/swarajendait/blob/main/Hello%20world.png)
+![Coding Fan](https://github.com/swarajendait/swarajendait/blob/main/Untitled%20design.png)
 ### Hi there 👋
 
 
