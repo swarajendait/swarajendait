@@ -1,5 +1,4 @@
 ### Hi there 👋
-####Coding Fan
 ![Coding Fan]([https://github.com/swarajendait/swarajendait/blob/main/Hello%20world.png])
 
 I'm Swaraj from India, I love Computers 💻 and Games 🎮! I really enjoy coding. I've learned many languages like Java, HTML, CSS, Python & C++. I like to make websites.
