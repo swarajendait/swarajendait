@@ -1,5 +1,6 @@
-### Hi there 👋
 ![Coding Fan]([https://github.com/swarajendait/swarajendait/blob/main/Hello%20world.png])
+### Hi there 👋
+
 
 I'm Swaraj from India, I love Computers 💻 and Games 🎮! I really enjoy coding. I've learned many languages like Java, HTML, CSS, Python & C++. I like to make websites.
 I am a big fan of games and how they work. Science 🧪 and Maths is something that enjoy doing the most. I have done a video on Supernova of stars on YouTube.
