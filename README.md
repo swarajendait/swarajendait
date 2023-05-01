@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love Games 🎮 All of these Coding languages, I have very little knowledge about them! I am still learning!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> endait.swaraj@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
